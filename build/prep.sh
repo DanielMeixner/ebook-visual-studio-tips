@@ -5,8 +5,9 @@ sudo apt-get update
 echo ...  install imagemagick ...
 apt-get install imagemagick --assume-yes
 
+
 echo ... start resizing all images...
-for file in $(find ../images -name "*.png") ; do convert "$file" -resize 500x500 "$file" ; done
+for file in $(find ../content -name "*.png") ; do convert "$file" -resize 500x500 "$file" ; done
 
 echo ... get git authors ...
 authstring=$(git shortlog HEAD -s | awk '{print $2'} | tr '\n' ';')

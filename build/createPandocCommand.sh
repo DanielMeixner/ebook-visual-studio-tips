@@ -1,6 +1,6 @@
-echo "/bin/pandoc -o guide.epub title.txt \ " >> ebookbuilder.sh
-for d in 'find ../content -type d'
+echo "/bin/pandoc -o VisualStudioTipps.epub title.txt \ " >> ebookbuilder.sh
+for d in `find ../content -type d`
 do
   echo $d/tipp.md \ >> ebookbuilder.sh
 done
-echo --epub-cover-image ../content/coverimage.jpg --number-sections >> ebookbuilder.sh
+echo --epub-cover-image ../content/coverimage.png --number-sections >> ebookbuilder.sh
