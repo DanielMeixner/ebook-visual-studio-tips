@@ -4,3 +4,5 @@ echo "Start download"
 wget $mypan -O "pandoc.tar.gz"
 echo "Download done"
 tar xvzf pandoc.tar.gz --strip-components 1
+
+
