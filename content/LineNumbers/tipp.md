@@ -8,3 +8,4 @@ Switch on line numbers for every language in your editor.
 ![Setting for line numbers](LineNumbers/images/settings.png)
 
 
+
