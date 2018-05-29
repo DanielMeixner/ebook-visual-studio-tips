@@ -8,5 +8,6 @@ bla
 2. do this 
 
 3. do this
+and then this.
 
-![Setting for line numbers](./images/json.png)
+![Setting for line numbers](PasteJsonAsClasses/images/json.png)
