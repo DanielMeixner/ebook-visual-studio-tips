@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 var toc = require('gulp-markdown-toc');
+var path = require("path");
 
 gulp.task('toc', function () {
   return gulp.src('../content/**/*.md')
@@ -13,6 +14,15 @@ gulp.task('toc', function () {
         },
         index: function (file) {
           file.basename = 'index.md'; return '00_Index';
+        },
+        headingName: function(name) {
+          name = path.basename(name.history[0],'.md');
+          return name;
+        }
+        ,
+        headingLink: function(name) {
+          name = path.basename(name.history[0],'.md');
+          return name;
         }
       }
     ))
