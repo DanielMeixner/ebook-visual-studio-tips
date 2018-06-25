@@ -1,3 +1,4 @@
+
 # Paste JSON as Classes
 
 ## Essentials

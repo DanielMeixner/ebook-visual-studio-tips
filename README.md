@@ -20,6 +20,13 @@ This is a longer story. Here's the short one.
 ## Will you share the details on how to set up CI/CD for e-books?
 Yes. Once it's working I'll write a blog post or something similar on it. All the magic is currently done in Team Services and all the code can be found in this repo.
 
+## Where can I find the ebook?
+Here: https://github.com/DanielMeixner/ebook-visual-studio-tipps/releases
+
+## There isn't too much content in the book yet.
+I know. 
+I'm working on it. Currently my focus was on setting up CI/CD. 
+
 ## Guidlines
 * Fork the repo.
 * Create a folder for your tipp in the content subfolder.
