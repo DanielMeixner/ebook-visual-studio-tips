@@ -4,7 +4,3 @@ My foreword.
 
 
 <!-- toc -->
-
-
-
- 
