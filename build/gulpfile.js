@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var toc = require('gulp-markdown-toc');
 
 gulp.task('toc', function () {
-  return gulp.src('../content/')
+  return gulp.src('../content/**/*.md')
     .pipe(toc(
       {
         filter: function (file) {
@@ -16,5 +16,6 @@ gulp.task('toc', function () {
         }
       }
     ))
+   
     .pipe(gulp.dest('../content/'));
 });
