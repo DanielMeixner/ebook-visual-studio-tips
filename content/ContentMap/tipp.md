@@ -1,4 +1,4 @@
-# Another Tipp
+# Content Map
 
 ## Essentials
 bla
