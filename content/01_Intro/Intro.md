@@ -1,12 +1,10 @@
 
 # Foreword
-bla
+My foreword.
 
-# Content
-Here is my content:
 
 <!-- toc -->
 
-This is it.
+
 
  
