@@ -34,7 +34,7 @@ I'm working on it. Currently my focus was on setting up CI/CD and have some kind
 * Create a folder for your tipp in the content subfolder.
 * Add images for your tipp in a images subfolder within your tipp's folder.
 * Write your tipp in markdown.
-* Be short and precise. Add an "Essentials" and a "Guidance" chapter - as shown in the samples.
+* Be short and precise. Add an "Description" and a "Guidance" chapter - as shown in the samples.
 * Send out a pull request.
 * Currently I will be reviewing your tipp and I have to push the button to build manually. This is just during this early phase. CI/CD could be enabled with a flick of a switch but I have to improve stability and the review process first.
 
