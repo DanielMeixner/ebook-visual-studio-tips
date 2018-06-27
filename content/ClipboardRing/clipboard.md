@@ -12,3 +12,4 @@ With the clipboard ring you can keep multiple snippets in your clipboard. You pr
 1. Hit Ctrl+P. this will paste the latest content.
 1. Now hit Ctrl+SHIFT+p mutliple times. 
 1. Everytime you hit it, it will paste one of the entries in the clipboard. Once it reaches the end it will start from the beginning. (That's why it's called a ring).
+

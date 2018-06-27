@@ -1,6 +1,5 @@
 
 # Content Map
-
 ## Description
 You can enable a content map in your scrollbar. This gives you a good overview of your code structure and can be very comfortable if you want to find a certain codeblock like a switch-case fast by simply looking at the code structure.
 
