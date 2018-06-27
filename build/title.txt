@@ -1,6 +1,6 @@
 ---
-title: Visual Studio Tipps & Tricks
-subtitle: The best tipps shared by the global developer community 
+title: Visual Studio Tips & Tricks
+subtitle: The best tips shared by the global developer community 
 author: __AUTHLIST__
 rights:  Creative Commons Non-Commercial Share Alike 3.0
 language: en-US

@@ -1,9 +1,9 @@
-# Ebook for Visual Studio Tipps and Tricks
+# Ebook for Visual Studio Tips and Tricks
 
 
 
 ## What is this?
-This is the repo for a bunch of tipps and tricks on Visual Studio. Everybody can participate.
+This is the repo for a bunch of tips and tricks on Visual Studio. Everybody can participate.
 Every checkin will trigger a build of an ebook. The ebook will have EPUB format and will be available for download freely.
 Currently this is a very early state.
 
@@ -35,6 +35,11 @@ I'm working on it. Currently my focus was on setting up CI/CD.
 * Be short and precise. Add an "Essentials" and a "Guidance" chapter - as shown in the samples.
 * Send out a pull request.
 * Currently I will be reviewing your tipp and I have to push the button to build manually. This is just during this early phase. CI/CD could be enabled with a flick of a switch but I have to improve stability and the review process first.
+
+## Current Limitations: 
+* Use *.png images only
+* Place your content in a folder which will be the name of your chapter. Do not use whitespaces.
+* Table of content is broken.
 
 
 
