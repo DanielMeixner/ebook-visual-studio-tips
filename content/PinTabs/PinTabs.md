@@ -13,4 +13,4 @@ If you are working with mutliple open documents, use the "Pin Tabs" menu to pin 
 
 ![Pin a tab to the left.](PinTabs/images/pin.png)
 
-![Close all but pinned.](PinTabs/images/closeall.png)
+![Close all but pinned.](PinTabs/images/closealltabs.png)
