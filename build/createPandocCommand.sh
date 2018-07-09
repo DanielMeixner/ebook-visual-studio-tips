@@ -1,4 +1,4 @@
-echo -n "bin/pandoc -o VisualStudioTips.epub ../build/title.txt " >> ../build/ebookbuilder.sh
+echo -n "bin/pandoc --toc -o VisualStudioTips.epub ../build/title.txt " >> ../build/ebookbuilder.sh
 for doc in `find . -name "*.md" | sort -g  | sed "s|^\./||"`
 do
 
