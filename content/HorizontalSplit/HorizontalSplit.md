@@ -12,4 +12,4 @@ You can split your editor horizonally. This allows you to edit the same file in 
 
 ![Find the button for the split.](HorizontalSplit/images/split.png)
 
-![This is what the horizontal split looks like.](HorizontalSplit/images/twopanes.png)
+![This is what the horizontal split looks like.](HorizontalSplit/images/twoPanes.png)
