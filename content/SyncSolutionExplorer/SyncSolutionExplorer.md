@@ -1,3 +1,4 @@
+
 # Find active file in Solution Explorer
 
 ## Description
