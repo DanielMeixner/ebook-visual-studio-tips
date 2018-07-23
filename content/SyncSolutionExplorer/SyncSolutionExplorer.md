@@ -10,4 +10,4 @@ Use the "Sync with Active Document" button to find the current file in Solution 
 3. Click "Sync with Active Document" in the menu of solution explorer.
 4. The currently active document will be marked in solution explorer. 
 
-![Find current file in solution explorer.](SyncSolutionExplorer/images/sync.png)
+![Find current file in solution explorer.](../SyncSolutionExplorer/images/sync.png)

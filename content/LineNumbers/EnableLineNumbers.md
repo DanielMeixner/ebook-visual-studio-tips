@@ -9,4 +9,4 @@ Switch on line numbers for every language in your editor. Line numbers are disab
 2. Navigate to Text Editor --> All Languages --> General.
 3. Check the box for line numbers.
 
-![Setting for line numbers](LineNumbers/images/settings.png)
+![Setting for line numbers](../LineNumbers/images/settings.png)

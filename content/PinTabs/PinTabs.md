@@ -11,6 +11,6 @@ If you are working with mutliple open documents, use the "Pin Tabs" menu to pin 
 4. Now right-click any of your documents' tabs again and choose "Close all but pinned". 
 5. All documents close except the pinned.
 
-![Pin a tab to the left.](PinTabs/images/pin.png)
+![Pin a tab to the left.](../PinTabs/images/pin.png)
 
-![Close all but pinned.](PinTabs/images/closealltabs.png)
+![Close all but pinned.](../PinTabs/images/closealltabs.png)

@@ -13,4 +13,4 @@ If you're working with dynamic languages you might want to create a C# class str
 3. Now click paste json as classes.
 4. A class structure will be inserted wherever your cursor is in the c# file.
 
-![Paste json as classes.](PasteJsonAsClasses/images/json.png)
+![Paste json as classes.](../PasteJsonAsClasses/images/json.png)

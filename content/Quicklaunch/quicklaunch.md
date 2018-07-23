@@ -11,5 +11,6 @@ Quicklaunch helps you to discover features & settings in Visual Studio. It' like
 1. While you're typing results will appear which show you the naviation path to your setting.
 1. Now click this navigation path. It will take you directly to the setting you were looking for.
 
-![Quicklaunch looking for the linenumber setting](Quicklaunch/images/quicklaunch.png)
+![Quicklaunch looking for the linenumber setting](../Quicklaunch/images/quicklaunch.png)
+
 This is what it looks like activated.

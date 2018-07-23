@@ -9,5 +9,5 @@ Sometimes you don't want to save your projects because you just want to try thin
 1. Disable the setting "Save new projects when created".
 1. Next time you create a new project you have to explicitly save it (by clicking the Save Project button), otherwise it will be discarded.
 
-![Disable auto-safe for projects.](DontSaveProjectsAutomatically/images/dontsave.png)
+![Disable auto-safe for projects.](../DontSaveProjectsAutomatically/images/dontsave.png)
 

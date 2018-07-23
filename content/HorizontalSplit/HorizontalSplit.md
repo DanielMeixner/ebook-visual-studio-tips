@@ -11,6 +11,6 @@ You can split your editor horizonally. This allows you to edit the same file in 
 3. Your editor will be split, you can choose the ratio between the two edtior panes freely.
 4. To close the second pane just draw the border all the way up.
 
-![Find the button for the split.](HorizontalSplit/images/split.png)
+![Find the button for the split.](../HorizontalSplit/images/split.png)
 
-![This is what the horizontal split looks like.](HorizontalSplit/images/twoPanes.png)
+![This is what the horizontal split looks like.](../HorizontalSplit/images/twoPanes.png)
