@@ -16,3 +16,4 @@ If you want to navigate backward in code e.g. to reach the line you've edited be
 7. You can also navigate by using the two buttons with arrows if you see them in your toolbar.
 
 ![The buttons for navigation back and forward](../GoBackInCode/images/back.png)
+
