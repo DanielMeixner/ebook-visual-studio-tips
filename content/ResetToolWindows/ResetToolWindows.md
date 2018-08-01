@@ -1,18 +1,18 @@
 
-# Header for my tip
+# Solution Explorer Views
 
 ## Description
-Describe your tip here. Keep it short but point out what's the benefit. 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+If you work with multiple monitors you might want to create a new Solution Explorer View which can be docked as a tool window.
 
 ## Guidance
-Provide the information needed to try out the tip. Do not use code snippets in here, this will break the ebook layout. 
-Feel free to use images.
-Make sure to always reference them as specified below: ../<NAMEOFYOURTIP>/images/<IMAGENAME>.png
-Use png only.
 
-1. Describe first step.
-2. Describe second step.
-3. And so on.
+1. Open up a Visual Studio Solution.
+2. Mark a solution, folder or a project in Solution Explorer. 
+3. Right-click it and select "New Solution Explorer View". 
 
-![Describe your image](../TipName/images/myimage.png)
+![Create a new View](../SolutionExplorerViews/images/seview.png)
+
+4. A new Solution Explorer instance will be created to display only items within the chosen scope.
+5. You can dock this instance just as any other regular tool window.
+
+
