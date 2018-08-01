@@ -23,20 +23,22 @@ This is a longer story. Here's the short one.
 Yes. Once it's working I'll write a blog post or something similar on it. All the magic is currently done in Team Services and all the code can be found in this repo.
 
 ## Where can I find the ebook?
-Here: https://github.com/DanielMeixner/ebook-visual-studio-tipps/releases
+Here: https://github.com/DanielMeixner/ebook-visual-studio-tips/releases
 
 ## There isn't too much content in the book yet.
 I know. 
-I'm working on it. Currently my focus was on setting up CI/CD and have some kind of epub-creation.
+I'm working on it. Currently my focus was on setting up CI/CD and have some kind of epub-creation. Feel free to send PRs!
 
 ## Guidlines
 * Fork the repo.
-* Create a folder for your tipp in the content subfolder.
-* Add images for your tipp in a images subfolder within your tipp's folder.
-* Write your tipp in markdown.
+* Check out the dev branch.
+* Create a folder for your tip in the content subfolder. 
+* Add images for your tip in a images subfolder within your tip's folder. Use png only for images.
+* Write your tip in markdown.
 * Be short and precise. Add an "Description" and a "Guidance" chapter - as shown in the samples.
+* You can also simply copy and paste the folder in the template subfoder and get started from there.
 * Send out a pull request.
-* Currently I will be reviewing your tipp and I have to push the button to build manually. This is just during this early phase. CI/CD could be enabled with a flick of a switch but I have to improve stability and the review process first.
+* Currently I will be reviewing your tip and I have to push the button to build manually. This is just during this early phase. CI/CD could be enabled with a flick of a switch but I have to improve stability and the review process first.
 
 ## Current Limitations: 
 * Use *.png images only
