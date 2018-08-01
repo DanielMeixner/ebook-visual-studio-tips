@@ -13,4 +13,3 @@ Quicklaunch helps you to discover features & settings in Visual Studio. It' like
 
 ![Quicklaunch looking for the linenumber setting](../Quicklaunch/images/quicklaunch.png)
 
-This is what it looks like activated.

@@ -7,10 +7,10 @@ You can enable a content map in your scrollbar. This gives you a good overview o
 1. Open Settings
 2. Choose All Languages --> Scroll Bar --> Use Map Mode
 
-![Map](../ContentMap/images/mapmode.png)
+![Switch Map mode on and off.](../ContentMap/images/mapmode.png)
 
 3. Here's what it will look like.
 
-![Map](../ContentMap/images/widebar.png)
+![This is what it looks like activated.](../ContentMap/images/widebar.png)
 
-This is what it looks like activated.
+
