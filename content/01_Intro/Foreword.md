@@ -1,5 +1,5 @@
 # Foreword
-## Dear reader!
+## Dear reader
 This book was created for several reasons.
 First, I wanted to find out if it could be an appropriate way to write a book using GitHub, in public and with multiple authors.
 Then, I wanted to see if this could be a valid way to write technical documentation. Today the wheels are turning fast and almost every technical book feels old when it is published. So why not be more agile when it comes to writing?
